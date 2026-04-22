@@ -1,3 +1,5 @@
+![logo](asset/img/notResponding.png)
+
 # 📊 Automatización de Reporte Not Responding - Genesys Cloud
 
 Proyecto de automatización en **Python** para consultar eventos **Not Responding** desde **Genesys Cloud Analytics API**, generar archivos **CSV** y **gráficas por hora del día**, y poblar automáticamente una plantilla de **Excel** preparada para reportería operativa.
